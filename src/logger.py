@@ -1,3 +1,6 @@
+# A log file provides a detailed and easily accessible record of system information that would otherwise be difficult to collate.
+# OR
+# Any execution that probably happens we should be able to log all those information the execution everything in some files so that will be able to track if there is some errors even the custom exception error we will try to log that into the file.
 import logging
 import os 
 from datetime import datetime
